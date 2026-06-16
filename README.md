@@ -21,3 +21,4 @@
 
 将 `washv5` 文件夹部署到支持 PHP 的服务器即可。
 © 2026 成玉霞。保留所有权利。
+💡 更多 Vibe Coding 项目和想法，欢迎访问我的个人网站：[chengyuxia.com](https://chengyuxia.com)
